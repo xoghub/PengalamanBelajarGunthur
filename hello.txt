@@ -1,3 +1,2 @@
 print('Hello World')
-print('Saya Sudah Muak')
 print('Saya Sekarang Sangat Senang dan Bekerja Keras')
